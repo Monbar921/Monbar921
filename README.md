@@ -1,4 +1,6 @@
-### Hi there 👋
+<h1 align="center">Hi there, I'm Denis
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Java junior developer. Student of Schoo21</h3>
 
 <!--
 **Monbar921/Monbar921** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
